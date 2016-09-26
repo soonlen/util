@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android.studio.space\CommUtil\app\build\intermediates\exploded-aar\mylibrary-debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5988253bfdb0c98a0d1164ff3e4a174399146022">
+        <dex dex="F:\android.studio.space\CommUtil\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-mylibrary-debug_1f09aa515407fa7b80b3213cc60bece45ff4ec61.jar" />
+    </item>
+
+</items>
